@@ -1,2 +1,2 @@
 my redux worksheet.
-## React redux Router dom jax.
+## React redux Router dom jsx.
